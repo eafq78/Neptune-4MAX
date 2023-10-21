@@ -11,3 +11,5 @@ or use my printer config file (.json) open orca then file, import.
 Now hit the wifi logo on the right side to connect the printer, go to the printer, look the touchscreen in the wifi settings to get the IP address and use it in Orca, done, printer is connected, up and running, now you can see fluid inside the OrcaSlicer when you hit device.
 
 I also drill up the original nozzle to .6mm with a cheap small drill bit kit, first I use .5mm then the .6mm (I already did the same with my bambulab X1C stell nozzle) the elegoo original is brass, it is easy to drill. then I get 27mm3 flow rate (the priter comes with 2 brass nozzle, I still have the .4) I dont remove the nozzle from the printer, I drill it installed 
+
+If you use this files please do all the calibration, manual leveling + bedmesh, inputshaper, plus the orca calibration test. it is almost all dialed in but for example the printer.cfg comes with my bed leveling mesh 
