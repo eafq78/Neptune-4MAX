@@ -1,7 +1,7 @@
 {
     "auxiliary_fan": "1",
-    "bed_custom_model": "",
-    "bed_custom_texture": "C:\\\\Users\\\\E\\\\Pictures\\\\elegoo_platform_max.png",
+    "bed_custom_model": "C:\\\\Program Files\\\\OrcaSlicer\\\\resources\\\\profiles\\\\Elegoo\\\\elegoo_neptune3max_buildplate_model.stl",
+    "bed_custom_texture": "C:\\\\Program Files\\\\OrcaSlicer\\\\resources\\\\profiles\\\\Elegoo\\\\elegoo_neptune3max_buildplate_texture.png",
     "bed_exclude_area": [
         "0x0"
     ],
