@@ -1,4 +1,11 @@
 # Neptune-4MAX
+11/9/23 UPDATE
+Please FIRST update the Orca to 1.8 beta2 comes with settings ready, just set the Y max acceleration to 3000 and make the calibrations.
+and update the firmware machine/screen (.34 or the latest .43 works fine solve all the issues) if you can't find it ask to costumer support or in elegoo official discord channel
+Pressure advance try 0.03 for PLA+ and 0.6mm  nozzle
+it almost always works 0.02 though. 
+
+
 How to set up the Elegoo Neptune 4MAX with Orca Slicer
 I get one issue with hard homing 
 I change my X&Y stepper sensitivity on  printer.cfg  look for driver_SGTHRS:
